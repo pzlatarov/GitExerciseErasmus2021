@@ -67,7 +67,7 @@ namespace GitUnitTestDemo
                     return 4;
 
                 case "5":
-                    Console.WriteLine("The sum of digits of a is: " + math.SumDigits());
+                    Console.WriteLine("The sum of the digits of a is: " + math.SumDigits());
                     return 5;
 
                 case "6":
